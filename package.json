@@ -1,0 +1,20 @@
+{
+  "name": "color-guessing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Princekelsey/color-guessing-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Princekelsey/color-guessing-game",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
