@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/Princekelsey/color-guessing-game",
+  "homepage": "https://github.com/Princekelsey/guessingGame",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
